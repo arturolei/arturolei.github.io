@@ -1,0 +1,33 @@
+body{
+	padding-top: 50px
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.content-block{
+	padding-top: 50px;
+	padding-bottom: 6000px;
+}
+#name-tag{
+	cursor: default;
+	text-transform: uppercase;
+	color:white;
+}
+#name-tag:hover{
+	color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover{
+	color: blue;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+	color:blue;
+}
