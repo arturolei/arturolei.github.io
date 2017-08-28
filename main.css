@@ -24,10 +24,14 @@ body{
 	color: white;
 }
 
-.navbar-inverse .navbar-nav>li>a:hover{
-	color: blue;
+p{
+	font-size: 21px;
+	margin-bottom: 20px;
+    font-weight: 300;
+    line-height: 1.4;
 }
 
+/*
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
-	color:blue;
-}
+	color:white;
+}*/
