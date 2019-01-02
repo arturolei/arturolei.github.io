@@ -30,6 +30,12 @@ p {
     font-weight: 300;
     line-height: 1.4;
 }
+.project_block{
+
+}
+.project_title{
+	color: red;
+}
 
 /*
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
